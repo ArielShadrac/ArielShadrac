@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm F. Ariel Shadrac Ouedraogo, a medical student and self-taught developer.Passionate about artificial intelligence applied to medicine,</h1>
+<h1 align="center">Hi 👋, I'm F. Ariel Shadrac Ouedraogo, a medical student and self-taught developer , passionate about artificial intelligence applied to medicine,</h1>
 <h3 align="justify">I mainly developed my skills in Python, but I also have experience in C, C++. Fascinated by the brain and the technologies that surround it, I'm committed to using my skills to improve health and well-being.</h3>
 
 
