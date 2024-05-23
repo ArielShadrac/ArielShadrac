@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/ariel-shadrac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehab hegab" height="30" width="40" /></a>
 </p>
 
-- Mail **arielshadracm@gmail.com**
+- Mail **arielshadracom@gmail.com**
 - "L'avenir de la médecine appartient à ceux qui sauront marier l'intelligence artificielle et l'intelligence humaine." - Dr. Eric Topol
 
 ##
