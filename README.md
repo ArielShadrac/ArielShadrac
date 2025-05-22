@@ -2,20 +2,23 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArielShadrac&color=brightgreen" alt="Profile views" />
-  <a href="https://github.com/ArielShadrac?tab=followers"><img src="https://img.shields.io/github/followers/ArielShadrac?label=Followers&style=social" alt="GitHub Followers" /></a>
+  <a href="https://github.com/ArielShadrac?tab=followers">
+    <img src="https://img.shields.io/github/followers/ArielShadrac?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
 </div>
 
 ---
 
 ## 🔭 À propos de moi
 
-Je suis **étudiant en médecine** et **développeur autodidacte**, passionné par l’**intelligence artificielle appliquée à la médecine**. 
+Je suis **étudiant en médecine** et **développeur autodidacte**, passionné par l’**intelligence artificielle appliquée à la médecine**.
 Je m’efforce de marier **science médicale** et **technologies de pointe** pour créer des solutions innovantes.
 
 > _"L'avenir de la médecine appartient à ceux qui sauront marier l'intelligence artificielle et l’intelligence humaine."_
 > 
 > — **Dr. Eric Topol**
 
+---
 
 ## 🛠️ Compétences & Outils
 
@@ -36,28 +39,35 @@ Je m’efforce de marier **science médicale** et **technologies de pointe** pou
 
 ## 🚀 Projets récents
 
-| Nom du projet | Description | Tech |
-| ------------- | ----------- | ---- |
-| **Carythma-AI** | Algorithme de traitement de signal en santé | Python, Pandas |
-| **Atelier Créatif** | Plateforme créative front-end | Django, Bootstrap |
-| **NeuroViz** | Visualisation de données neuronales | Python, Matplotlib |
-
+| Nom du projet      | Description                               | Tech               |
+|--------------------|-------------------------------------------|--------------------|
+| **Carythma-AI**    | Algorithme de traitement de signal en santé | Python, Pandas     |
+| **Atelier Créatif**| Plateforme créative front-end             | Django, Bootstrap  |
+| **NeuroViz**       | Visualisation de données neuronales       | Python, Matplotlib |
 
 ---
 
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArielShadrac&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielShadrac&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArielShadrac&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielShadrac&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
 ---
 
-## 🏆 Trophées & Achievements
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArielShadrac&theme=darkhub&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/ArielShadrac/ArielShadrac/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+## 🏆 Trophées & Récompenses
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArielShadrac&theme=classic" alt="Trophies" />
 </p>
 
 ---
