@@ -37,16 +37,6 @@ Je m’efforce de marier **science médicale** et **technologies de pointe** pou
 
 ---
 
-## 🚀 Projets récents
-
-| Nom du projet      | Description                               | Tech               |
-|--------------------|-------------------------------------------|--------------------|
-| **Carythma-AI**    | Algorithme de traitement de signal en santé | Python, Pandas     |
-| **Atelier Créatif**| Plateforme créative front-end             | Django, Bootstrap  |
-| **NeuroViz**       | Visualisation de données neuronales       | Python, Matplotlib |
-
----
-
 ## 📊 Statistiques GitHub
 
 <div align="center">
@@ -71,7 +61,7 @@ Je m’efforce de marier **science médicale** et **technologies de pointe** pou
 
 - ✉️ Email : arielshadracom@gmail.com
 - 🔗 LinkedIn : [Ariel Shadrac Ouedraogo](https://www.linkedin.com/in/ariel-shadrac)
-- 🌐 Portfolio : [www.shadrac.dev](https://www.shadrac.dev)
+
 
 <div align="center">
   <sub>Page générée avec ❤️ par **F. Ariel Shadrac Ouedraogo**</sub>
