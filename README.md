@@ -56,11 +56,6 @@ Je m’efforce de marier **science médicale** et **technologies de pointe** pou
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ArielShadrac/ArielShadrac/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
 
 ---
 
