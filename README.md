@@ -11,41 +11,35 @@
 
 ## 🔭 À propos de moi
 
-Je suis **étudiant en médecine** et **développeur autodidacte**, passionné par l’**intelligence artificielle appliquée à la médecine**.
+Je suis **étudiant en médecine** et **développeur autodidacte**, passionné par l’**intelligence artificielle appliquée à la médecine**.  
 Je m’efforce de marier **science médicale** et **technologies de pointe** pour créer des solutions innovantes.
 
-> _"L'avenir de la médecine appartient à ceux qui sauront marier l'intelligence artificielle et l’intelligence humaine."_
-> 
+> _"L'avenir de la médecine appartient à ceux qui sauront marier l'intelligence artificielle et l’intelligence humaine."_  
 > — **Dr. Eric Topol**
 
 ---
 
-## 🛠️ Compétences & Outils
+## 💻 Tech Stack & Outils
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-</div>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Mes statistiques GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArielShadrac&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielShadrac&layout=compact&theme=default" alt="Top Languages" />
 </div>
-
----
-
 
 ---
 
@@ -59,9 +53,8 @@ Je m’efforce de marier **science médicale** et **technologies de pointe** pou
 
 ## 📝 Contact
 
-- ✉️ Email : arielshadracom@gmail.com
+- ✉️ Email : arielshadracom@gmail.com  
 - 🔗 LinkedIn : [Ariel Shadrac Ouedraogo](https://www.linkedin.com/in/ariel-shadrac)
-
 
 <div align="center">
   <sub>Page générée avec ❤️ par **F. Ariel Shadrac Ouedraogo**</sub>
