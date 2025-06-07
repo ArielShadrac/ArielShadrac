@@ -30,6 +30,7 @@ Je m’efforce de marier **science médicale** et **technologies de pointe** pou
 
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArielShadrac&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielShadrac&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
