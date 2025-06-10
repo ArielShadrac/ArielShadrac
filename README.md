@@ -9,7 +9,7 @@
 
 ---
 
-## 🔭 À propos de moi
+##  À propos de moi
 
 Je suis **étudiant en médecine** et **développeur autodidacte**, passionné par l’**intelligence artificielle appliquée à la médecine**.  
 Je m’efforce de marier **science médicale** et **technologies de pointe** pour créer des solutions innovantes.
@@ -34,10 +34,6 @@ Je m’efforce de marier **science médicale** et **technologies de pointe** pou
 </div>
 
 ---
-
-<div align="center">
-  <sub>Page générée avec ❤️ par F. Ariel Shadrac Ouedraogo</sub>
-</div>
 
 
 <picture>
