@@ -14,8 +14,8 @@
 Je suis **étudiant en médecine** et **développeur autodidacte**, passionné par l’**intelligence artificielle appliquée à la médecine**.  
 Je m’efforce de marier **science médicale** et **technologies de pointe** pour créer des solutions innovantes.
 
-> _"L'avenir de la médecine appartient à ceux qui sauront marier l'intelligence artificielle et l’intelligence humaine."_  
-> — **Dr. Eric Topol**
+> _"Parceque chaque ligne de code peut sauver une vie"_  
+> — **Ariel Shadrac**
 
 ---
 
