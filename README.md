@@ -19,8 +19,6 @@ Je m’efforce de marier **science médicale** et **technologies de pointe** pou
 
 ---
 
-
-
 ##  Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/http://facebook.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamshadrac_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iamshadrac) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arielshadrac@gmail.com) 
 
