@@ -33,6 +33,9 @@ Je m’efforce de marier **science médicale** et **technologies de pointe** pou
 
 ---
 
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArielShadrac&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
