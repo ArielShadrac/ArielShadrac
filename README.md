@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2>
   <strong>Parceque chaque ligne de code peut sauver une vie</strong>  
 </h2>
 
