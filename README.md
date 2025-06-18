@@ -1,7 +1,8 @@
-<h1 align="center">F. Ariel Shadrac Ouedraogo 👋</h1>
-<p align="center">
+<h2 align="center">
   <strong>Parceque chaque ligne de code peut sauver une vie</strong>  
-</p>
+</h2>
+
+# F. Ariel Shadrac Ouedraogo 👋
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArielShadrac&color=brightgreen" alt="Profile views" />
