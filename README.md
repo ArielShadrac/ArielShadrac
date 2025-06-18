@@ -33,11 +33,9 @@ Je m’efforce de marier **science médicale** et **technologies de pointe** pou
 </div>
 
 ---
-## My Activity Graph:
+## My Contrubutions Graph:
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArielShadrac&bg_color=ffffff&color=3a506b&line=5bc0be&point=1c2541&area=true&area_color=cae9ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+[![My github contributions graph](https://github-readme-activity-graph.vercel.app/graph?username=ArielShadrac&bg_color=ffffff&color=3a506b&line=5bc0be&point=1c2541&area=true&area_color=cae9ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
