@@ -1,6 +1,5 @@
 # F. Ariel Shadrac Ouedraogo 👋
 
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArielShadrac&color=brightgreen" alt="Profile views" />
   <a href="https://github.com/ArielShadrac?tab=followers">
