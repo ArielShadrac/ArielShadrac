@@ -1,15 +1,7 @@
-<h1 align="center">🧬 Ariel Shadrac Ouedraogo</h1>
+<h1 align="center">F. Ariel Shadrac Ouedraogo 👋</h1>
 <p align="center">
   <strong>Parceque chaque ligne de code peut sauver une vie</strong>  
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Codant+pour+soigner+demain...;IA+%2B+Sant%C3%A9+%3D+Impact+Humain;Open+Source+pour+l%27avenir+de+la+m%C3%A9decine" alt="Typing SVG" />
-</p>
-
-
-
-# F. Ariel Shadrac Ouedraogo 👋
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ArielShadrac&color=brightgreen" alt="Profile views" />
