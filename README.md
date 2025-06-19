@@ -30,8 +30,8 @@ Je m’efforce de marier **science médicale** et **technologies de pointe** pou
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielShadrac&layout=compact&theme=default" alt="Top Languages" />
+<div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielShadrac&layout=compact&theme=default" alt="Top Languages"  />
 </div>
 
 
