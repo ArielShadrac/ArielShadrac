@@ -93,7 +93,7 @@ class ArielShadrac:
 <div align="center">
 
 <!-- Trophées -->
-<img src="https://github-profile-trophy.vercel.app/?username=ArielShadrac&theme=algolia&no-frame=true&no-bg=false&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ArielShadrac&theme=algolia&no-frame=true&margin-w=10&column=4" />
 
 <br/><br/>
 
@@ -104,7 +104,7 @@ class ArielShadrac:
 <br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielShadrac&layout=donut&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielShadrac&layout=compact&theme=algolia&hide_border=true&langs_count=8&count_private=true" />
 
 </div>
 
