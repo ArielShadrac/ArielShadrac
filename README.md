@@ -92,10 +92,7 @@ class ArielShadrac:
 
 <div align="center">
 
-<!-- Trophées -->
-<img src="https://github-profile-trophy.vercel.app/?username=ArielShadrac&theme=algolia&no-frame=true&margin-w=10&column=4" />
 
-<br/><br/>
 
 <!-- Stats + Streak côte à côte -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArielShadrac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" />
