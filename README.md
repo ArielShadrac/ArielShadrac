@@ -136,6 +136,6 @@ class ArielShadrac:
 <!-- Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
-_"Parce que chaque ligne de code peut sauver une vie"_ — **Ariel Shadrac OUEDRAOGO** 
+_"Parce que chaque ligne de code peut sauver une vie"_ **Ariel Shadrac OUEDRAOGO** 
 
 </div>
