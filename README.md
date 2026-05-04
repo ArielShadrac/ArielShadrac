@@ -94,19 +94,17 @@ Curated list of awesome open-source projects from Burkina Faso. Building visibil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArielShadrac&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=aaaaaa&icon_color=58a6ff&bg_color=0d1117" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielShadrac&layout=compact&theme=github_dark&hide_border=true&langs_count=6&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" height="165" />
+<img src="https://streak-stats.demolab.com?user=ArielShadrac&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&background=0d1117" width="60%" />
 
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg" alt="Coding habits facts" width="100%">
+
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt="Coding habits charts" width="100%">
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ArielShadrac&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&background=0d1117" width="60%" />
 
 <br/><br/>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArielShadrac&bg_color=0d1117&color=aaaaaa&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true)
-
-</div>
 
 ---
 
