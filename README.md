@@ -156,18 +156,13 @@ Curated list of awesome open-source projects from Burkina Faso. Building visibil
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArielShadrac&theme=github_dark" width="100%" />
+<img src="https://streak-stats.demolab.com?user=ArielShadrac&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f3a5f&ring=58a6ff&fire=58a6ff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555" width="100%" />
 
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArielShadrac&theme=github_dark" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArielShadrac&theme=github_dark" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArielShadrac&theme=github_dark&utcOffset=0" width="32%" />
-
-<br/>
-
-
-<img src="https://streak-stats.demolab.com?user=ArielShadrac&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f3a5f&ring=58a6ff&fire=58a6ff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555" width="100%" />
 
 <br/>
 
