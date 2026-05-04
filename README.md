@@ -65,7 +65,7 @@ Validated against OpenEpi across 12 statistical modules. Preprint submitted to m
 
 ---
 
-## `projects`
+## `featured work`
 
 <table>
 <tr>
