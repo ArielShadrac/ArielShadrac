@@ -27,12 +27,15 @@
 Medical student and software engineer building open-source AI tools for healthcare in Africa.  
 I lead **[@Xcept-Health](https://github.com/Xcept-Health)**, a research collective building epidemiological and clinical AI infrastructure for underserved health systems.
 
+**Languages:** French (native) · English (professional) · Mooré (native)
+
 ---
 
 ## `in the lab`
 
-> Active development of a clinical AI infrastructure for sub-Saharan Africa, with a focus on decision support tools designed primarily for offline use and deployment processes tailored to resource-constrained environments. 
+> Active development of clinical AI infrastructure for sub-Saharan Africa, with a focus on decision support tools designed primarily for offline use and deployment processes tailored to resource-constrained environments.  
 > Targeting CPU-only environments, multilingual interfaces, and contexts where connectivity cannot be assumed.
+
 
 ---
 
@@ -42,7 +45,7 @@ I lead **[@Xcept-Health](https://github.com/Xcept-Health)**, a research collecti
 <tr>
 <td width="60%" valign="top">
 
-**Episia : Python Epidemiology Library**
+**Episia - Python Epidemiology Library**
 
 Validated against OpenEpi across 12 statistical modules. Preprint submitted to medRxiv. Currently under peer review at pyOpenSci.
 
@@ -55,6 +58,7 @@ Validated against OpenEpi across 12 statistical modules. Preprint submitted to m
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19429373-blue?style=flat-square)](https://doi.org/10.5281/zenodo.19429373)
 [![medRxiv](https://img.shields.io/badge/Preprint-medRxiv-B31B1B?style=flat-square)](https://doi.org/10.64898/2026.04.17.26350337)
 [![Website](https://img.shields.io/badge/Website-xcept--health.github.io%2Fepisia-2997ff?style=flat-square)](https://xcept-health.github.io/episia)
+
 </td>
 </tr>
 </table>
@@ -79,7 +83,7 @@ Python toolkit for epidemiological analysis. SIR/SEIR/SEIRD compartmental models
 
 ### [Wepisia](https://github.com/Xcept-Health/wepisia)
 
-Open epidemiology platform for Africa. React/TypeScript rewrite of OpenEpi with epidemic simulation, geospatial mapping, in-browser R IDE, and multilingual support (Mooré, Wolof, Hausa, Swahili…). Welcomed by the original OpenEpi authors as a meaningful continuation of their work.
+Open epidemiology platform for Africa. React/TypeScript rewrite of OpenEpi with epidemic simulation, geospatial mapping, in-browser R IDE, and multilingual support (Mooré, Wolof, Hausa, Swahili...). Welcomed by the original OpenEpi authors as a meaningful continuation of their work.
 
 [![Live](https://img.shields.io/badge/live-wepisia.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://wepisia.vercel.app/)
 
@@ -90,8 +94,9 @@ Open epidemiology platform for Africa. React/TypeScript rewrite of OpenEpi with 
 
 ### [EyeTrace](https://github.com/Xcept-Health/EyeTrace)
 
-Open-source toolkit extracting physiological and behavioral metrics from facial video — fatigue, drowsiness, and cognitive load assessment via MediaPipe.
-[![PyPI](https://img.shields.io/pypi/v/episia?style=flat-square&logo=pypi&logoColor=white&color=006dad)](https://pypi.org/project/eyetrace/)
+Open-source toolkit extracting physiological and behavioral metrics from facial video. Fatigue, drowsiness, and cognitive load assessment via MediaPipe.
+
+[![PyPI](https://img.shields.io/pypi/v/eyetrace?style=flat-square&logo=pypi&logoColor=white&color=006dad)](https://pypi.org/project/eyetrace/)
 
 </td>
 <td width="50%" valign="top">
@@ -103,6 +108,23 @@ Curated list of awesome open-source projects from Burkina Faso. Building visibil
 </td>
 </tr>
 </table>
+
+---
+
+## `open to`
+
+<div align="center">
+
+[![Research Collaborations](https://img.shields.io/badge/Research-Collaborations-1a1a2e?style=flat-square&logo=academia&logoColor=white)](mailto:arielshadrac@gmail.com)
+[![Speaking](https://img.shields.io/badge/Speaking-Invitations-1a1a2e?style=flat-square&logo=googleslides&logoColor=white)](mailto:arielshadrac@gmail.com)
+[![Remote Missions](https://img.shields.io/badge/Remote-Missions-1a1a2e?style=flat-square&logo=globe&logoColor=white)](mailto:arielshadrac@gmail.com)
+[![Funding Partnerships](https://img.shields.io/badge/Funding-Partnerships-1a1a2e?style=flat-square&logo=openai&logoColor=white)](mailto:arielshadrac@gmail.com)
+[![Consulting](https://img.shields.io/badge/Health%20AI-Consulting-1a1a2e?style=flat-square&logo=stethoscope&logoColor=white)](mailto:arielshadrac@gmail.com)
+
+</div>
+
+> Health AI in low-resource settings, epidemiological tooling, clinical decision support, multilingual NLP for African languages, open-source scientific software.  
+> Based in Ouagadougou, Burkina Faso. Remote-first, occasional travel.
 
 ---
 
@@ -134,12 +156,18 @@ Curated list of awesome open-source projects from Burkina Faso. Building visibil
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ArielShadrac&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=aaaaaa&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielShadrac&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=aaaaaa&langs_count=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArielShadrac&theme=github_dark" width="100%" />
 
 <br/>
 
-![Streak](https://streak-stats.demolab.com?user=ArielShadrac&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f3a5f&ring=58a6ff&fire=58a6ff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArielShadrac&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArielShadrac&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArielShadrac&theme=github_dark&utcOffset=0" width="32%" />
+
+<br/>
+
+
+<img src="https://streak-stats.demolab.com?user=ArielShadrac&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f3a5f&ring=58a6ff&fire=58a6ff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555" width="100%" />
 
 <br/>
 
