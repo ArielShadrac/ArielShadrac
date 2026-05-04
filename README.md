@@ -4,6 +4,10 @@
 
 </div>
 
+<h2 align="center">
+  'Cause every line of code can save a life.
+</h2>
+
 <br/>
 
 <div align="center">
@@ -22,7 +26,6 @@
 Medical student and software engineer building open-source AI tools for healthcare in Africa.  
 I lead **[@Xcept-Health](https://github.com/Xcept-Health)** a research collective building epidemiological and clinical AI infrastructure for underserved health systems.
 
-> *"Parce que chaque ligne de code peut sauver une vie."*
 
 ---
 
@@ -32,7 +35,7 @@ I lead **[@Xcept-Health](https://github.com/Xcept-Health)** a research collectiv
 <tr>
 <td width="50%" valign="top">
 
-### [episia](https://github.com/Xcept-Health/episia)
+### [Episia](https://github.com/Xcept-Health/episia)
 Python toolkit for epidemiological modelling, SIR/SEIR/SEIRD compartmental models, sensitivity analysis, interactive visualisations, automated HTML/Markdown/JSON reports.
 
 </td>
@@ -94,15 +97,6 @@ Curated list of awesome open-source projects from Burkina Faso. Building visibil
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ArielShadrac&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa&background=0d1117" width="60%" />
-
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg" alt="Coding habits facts" width="100%">
-
-<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt="Coding habits charts" width="100%">
-<br/><br/>
-
-
-<br/><br/>
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArielShadrac&bg_color=0d1117&color=aaaaaa&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true)
 
@@ -114,7 +108,6 @@ Curated list of awesome open-source projects from Burkina Faso. Building visibil
 
 <br/>
 
-**`"Parce que chaque ligne de code peut sauver une vie."`**  
-— F. Ariel Shadrac Ouedraogo
+**`"Parce que chaque ligne de code peut sauver une vie."`**  F. Ariel Shadrac Ouedraogo
 
 </div>
