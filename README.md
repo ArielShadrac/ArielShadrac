@@ -70,7 +70,7 @@ Curated list of awesome open-source projects from Burkina Faso. Building visibil
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,dart,js,ts,r&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,js,ts,r&theme=dark" />
 </p>
 
 **AI / ML / Data**
