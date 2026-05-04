@@ -85,7 +85,7 @@ Curated list of awesome open-source projects from Burkina Faso. Building visibil
 **Mobile & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,docker,linux,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,docker,git,github&theme=dark" />
 </p>
 
 ---
