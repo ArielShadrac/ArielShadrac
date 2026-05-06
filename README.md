@@ -166,7 +166,7 @@ Curated list of awesome open-source projects from Burkina Faso. Building visibil
 
 <br/>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArielShadrac&bg_color=0d1117&color=aaaaaa&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true)
+<!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArielShadrac&bg_color=0d1117&color=aaaaaa&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&hide_border=true) -->
 
 </div>
 
