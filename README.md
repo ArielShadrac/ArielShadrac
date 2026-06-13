@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=180&section=header&text=F.%20Ariel%20Shadrac%20Ouedraogo&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Medical%20Student%20-%20AI%20Developer%20-%20Burkina%20Faso&descAlignY=60&descSize=14&descColor=aaaaaa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=180&section=header&text=F.%20Ariel%20Shadrac%20Ouedraogo&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.D%20Candidate%20-%20AI%20Developer%20-%20Burkina%20Faso&descAlignY=60&descSize=14&descColor=aaaaaa" />
 </div>
 
 <h2 align="center">
@@ -25,7 +25,7 @@
 
 ## `whoami`
 
-Medical student and software engineer building open-source AI tools for healthcare in Africa.  
+M.D candidate and software engineer building open-source AI tools for healthcare in Africa.  
 I lead **[@Xcept-Health](https://github.com/Xcept-Health)**, a research collective building epidemiological and clinical AI infrastructure for underserved health systems.
 
 **Languages:** French (native) · English (professional) · Mooré (native)
